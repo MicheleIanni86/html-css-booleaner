@@ -1,13 +1,16 @@
+#corps{
+    width: 1050px;
+    position: relative;
+    margin-left: 225px;
+}
 body {
     font-family: 'DM Serif Display', serif;
-    margin: auto;
-    margin-left: 5px;
     width: 1050px;
     
 }
 
 .conteiner {
-    width: 1050px;
+    width: 1500px;
     background-color: #4EA0FF;
     background-image: url(../img/pattern.png);
 }
