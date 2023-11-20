@@ -64,6 +64,10 @@ body {
     background-color: yellow;
 }
 
+.lista {
+    padding-left: 20px;
+}
+
 #seconda-sottolineatura {
     background-color: yellow;
 }
@@ -78,4 +82,36 @@ table {
 
 .riga-blu {
     background-color: #B1E5F2;
+}
+
+#titolo-footer {
+    color: grey;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.prima-img-footer {
+    position: relative;
+    text-align: left;
+    color: white;
+}
+
+.primo-lorem {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-size: 23px;    
+}
+
+.seconda-img-footer {
+    position: relative;
+    text-align: left;
+    color: white;
+}
+
+.secondo-lorem {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-size: 23px;    
 }
