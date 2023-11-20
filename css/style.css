@@ -1,0 +1,15 @@
+.conteiner {
+    width: 2000px;
+    margin: 0 auto;
+    background-color: #4EA0FF;
+    background-image: url(../img/pattern.png);
+}
+
+#logo-boolean {
+    width: 350px;
+    margin-top: 80px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+}
+
+
