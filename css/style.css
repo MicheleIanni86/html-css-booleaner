@@ -60,11 +60,22 @@ body {
     margin: 0;
 }
 
-.primo-paragrafo {
-    width: 1050px;
-}
-
 #prima-sottolineatura {
     background-color: yellow;
 }
 
+#seconda-sottolineatura {
+    background-color: yellow;
+}
+
+table {
+    border-spacing: 0px;
+}
+.primariga {
+    background-color: #20A9E5;
+    color: white;
+}
+
+.riga-blu {
+    background-color: #B1E5F2;
+}
